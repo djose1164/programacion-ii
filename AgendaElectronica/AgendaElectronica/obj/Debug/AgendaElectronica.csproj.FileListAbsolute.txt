@@ -1,0 +1,9 @@
+c:\users\daniel\documents\visual studio 2012\Projects\AgendaElectronica\AgendaElectronica\bin\Debug\AgendaElectronica.exe.config
+c:\users\daniel\documents\visual studio 2012\Projects\AgendaElectronica\AgendaElectronica\bin\Debug\AgendaElectronica.exe
+c:\users\daniel\documents\visual studio 2012\Projects\AgendaElectronica\AgendaElectronica\bin\Debug\AgendaElectronica.pdb
+c:\users\daniel\documents\visual studio 2012\Projects\AgendaElectronica\AgendaElectronica\obj\Debug\AgendaElectronica.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2012\Projects\AgendaElectronica\AgendaElectronica\obj\Debug\AgendaElectronica.Form1.resources
+c:\users\daniel\documents\visual studio 2012\Projects\AgendaElectronica\AgendaElectronica\obj\Debug\AgendaElectronica.Properties.Resources.resources
+c:\users\daniel\documents\visual studio 2012\Projects\AgendaElectronica\AgendaElectronica\obj\Debug\AgendaElectronica.csproj.GenerateResource.Cache
+c:\users\daniel\documents\visual studio 2012\Projects\AgendaElectronica\AgendaElectronica\obj\Debug\AgendaElectronica.exe
+c:\users\daniel\documents\visual studio 2012\Projects\AgendaElectronica\AgendaElectronica\obj\Debug\AgendaElectronica.pdb
