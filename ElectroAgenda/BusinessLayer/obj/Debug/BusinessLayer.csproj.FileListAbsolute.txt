@@ -1,0 +1,9 @@
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\ElectroAgenda\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\ElectroAgenda\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\ElectroAgenda\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\ElectroAgenda\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\ElectroAgenda\BusinessLayer\bin\Debug\EntityLayer.dll
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\ElectroAgenda\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\ElectroAgenda\BusinessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\ElectroAgenda\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\daniel\Documents\Visual Studio 2012\Projects\ElectroAgenda\BusinessLayer\obj\Debug\BusinessLayer.pdb
